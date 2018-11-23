@@ -1,6 +1,6 @@
 # Persistência
 
-_Classroom link:_ <https://classroom.github.com/a/>
+_Classroom link:_ <https://classroom.github.com/a/bzT_GvE6>
 
 [There are more databases in the cloud and the earth, Horatio, Than are dreamt of in your philosophy](https://www.youtube.com/watch?v=bSAc56YCOaE)
 
